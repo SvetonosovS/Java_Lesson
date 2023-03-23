@@ -46,7 +46,7 @@ public class Task_5_1HW {
             }
 
             if (inputString.equalsIgnoreCase("0")) {
-                System.out.println("Работа завершена.\n");
+                System.out.println("Программ не активна.\n");
                 break;
             }
 
