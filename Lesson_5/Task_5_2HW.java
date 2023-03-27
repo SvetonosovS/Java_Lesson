@@ -51,4 +51,3 @@ public class Task_5_2HW {
         System.out.println(persons);
     }
 }
-    
